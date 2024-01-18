@@ -33,8 +33,7 @@ A simple software with a GUI to generate passwords.
 Install my-project with npm
 
 ```bash
-  npm install https://github.com/devcax/password_generator.git
-  cd password_generator.exe
+  git clone https://github.com/devcax/password_generator.git
 ```
     
 ## 🔗 Get connect
