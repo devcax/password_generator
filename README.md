@@ -1,5 +1,6 @@
 
-# ![Logo](https://github.com/devcax/password_generator/blob/main/pwd.png](https://github.com/devcax/password_generator/blob/main/assets/pwd.png) Password Generator  
+# ![Logo](https://github.com/devcax/password_generator/blob/main/assets/pwd.png) Password Generator  
+ 
 
 A simple software with a GUI to generate passwords.
 
