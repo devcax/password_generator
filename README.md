@@ -1,5 +1,5 @@
 
-# ![Logo](https://www.svgrepo.com/svg/527839/password) Password Generator  
+# ![Logo]([https://www.svgrepo.com/svg/527839/password](https://github.com/devcax/password_generator/blob/main/assets/password-svgrepo-com.svg)) Password Generator  
 
 A simple software with a GUI to generate passwords.
 
